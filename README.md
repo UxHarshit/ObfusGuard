@@ -28,10 +28,11 @@ ObfusGuard is a C++ header file designed to obfuscate code for enhanced security
 Here are some snapshots showing the difference between the source code, unprotected decompiled code, and protected decompiled code:
 
 - **Source Code**: Snapshot of the original source code before obfuscation.
+  ![Source Code](images/source.png)
 - **Unprotected Decompiled Code**: Snapshot of the code after decompiling an unprotected version.
+  ![Unprotected Decompiled Code](images/img2.png)
 - **Protected Decompiled Code**: Snapshot of the code after decompiling an obfuscated version.
-
-*(Insert images or snapshots here)*
+  ![Protected Decompiled Code](images/img1.png)
 
 ## License
 
