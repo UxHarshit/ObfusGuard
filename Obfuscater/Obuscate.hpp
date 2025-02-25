@@ -84,6 +84,8 @@ volatile static __attribute__((noinline)) int proxy_wrap(double val) {
                         ) \
                     ) else
 
+    #define for(x) for (int _i = __0(); _i < proxy_wrap(_T_R_U_E_); _i = _i + _n_1_) for (x)
+
 #endif
 
 #endif
