@@ -33,13 +33,14 @@ Here are some snapshots showing the difference between the source code, unprotec
   ![Unprotected Decompiled Code](images/img2.png)
 - **Protected Decompiled Code**: Snapshot of the code after decompiling an obfuscated version.
   ![Protected Decompiled Code](images/img1.png)
+  **Protected Code Graph**: Graphical representation of the protected code.
+  ![Protected Code Graph](images/graph.png)
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Future Goals
-
 - [x] Obfuscate `else` Blocks
 - [x] Obfuscate `for` Loops
 - [ ] Obfuscate `while` Loops
