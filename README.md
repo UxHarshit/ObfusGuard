@@ -40,7 +40,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Future Goals
 
-- [ ] Obfuscate `else` Blocks
+- [x] Obfuscate `else` Blocks
 - [ ] Obfuscate `for` and `while` Loops
 - [ ] Implement Advanced Randomization
 - [ ] Add Additional Compiler Directives
